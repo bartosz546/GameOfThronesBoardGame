@@ -12,7 +12,7 @@
 
 ## Queue Management
 ### The game for 9 players requires a lot of queue management to play turns efficiently. I prepared mobile app to manage it.
-### Or you can use the web page version I shared online: http://46.101.252.56/got-timer-app/www
+### Or you can use the web page version I shared online: https://timer.dapp-connects.com
 
 ## Donations
 ### If you appropriate my work. I will be more than happy, if you express it with slice of pizza:
